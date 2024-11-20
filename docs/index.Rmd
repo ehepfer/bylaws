@@ -1,5 +1,5 @@
 ---
-title: "SMSS By Laws Revisions: 2024-2025"
+title: "SMSS By Laws Revisions: 2024-2025 - DRAFT"
 output: html_document
 ---
 
@@ -42,6 +42,7 @@ p {
   font-size: 16px;
   color: blue;
 }
+
 ```
 
 # SCHOOL OF MATHEMATICAL AND STATISTICAL SCIENCES GOVERNANCE DOCUMENT (SCHOOL BYLAWS)
@@ -72,17 +73,6 @@ The objective of the Faculty of Mathematical and Statistical Sciences, referred 
 
 The regulations, policies, and procedures of the College of Science and the Clemson University Faculty Manual shall govern matters not treated in these bylaws. The College of Science Bylaws shall take precedence if they conflict with these bylaws. Provisions in these bylaws that are inconsistent with the Clemson University Faculty Manual are null and void.  
 
-<details>
-<summary> __Old Version__ </summary>
-   The objective of the Faculty of Mathematical and Statistical Sciences, referred to as the Faculty, shall be to approve curricula and curricular matters; to consider policies affecting teaching, research and other scholarly activities, welfare, and such other matters as might pertain to common professional goals.
-   The regulations, policies, and procedures of the College of Science and the Clemson University Faculty Manual shall govern matters not treated in these bylaws. The College of Science Bylaws shall take precedence if they conflict with these bylaws. Provisions in these bylaws that are inconsistent with the Clemson University Faculty Manual are null and void.  
-</details>
-
-<details>
-<summary> __Explanation of Changes__ </summary>
-No change was made to this article.   
-</details>
-
 ***
 
 ## Article III: Membership
@@ -93,12 +83,223 @@ The voting membership of the School shall be composed of all faculty, as defined
 
 <details>
 <summary> __Old Version__ </summary>
-The Voting Faculty shall consist of all individuals, designated by School personnel records as belonging to the Faculty of the School of Mathematical and Statistical Sciences, who are regular faculty, principal or senior lecturers, as defined in the Faculty Manual, and who are not on unpaid leave. Faculty with joint appointments, who are tenured, tenure-track, or principal / senior lecturers, are voting members in the School if their appointment is at least 51% in the School of Mathematical and Statistical Sciences, or 50% if their appointment in any other department or School is less than 50%. Faculty members who are voting members in the School of Mathematical and Statistical Sciences or the former Department of Mathematical Sciences before November 26, 2018 will continue to be voting members. A faculty member who has voting membership and who leaves the School will regain voting membership upon returning to the School.
+__Section 1: Voting Faculty__
+The Voting Faculty shall consist of all individuals, designated by School personnel records as belonging to the Faculty of the School of Mathematical and Statistical Sciences, who are regular faculty, principal or senior lecturers, as defined in the Faculty Manual, and who are not on unpaid leave. Faculty with joint appointments, who are tenured, tenure-track, or principal / senior lecturers, are voting members in the School if their appointment is at least 51% in the School of Mathematical and Statistical Sciences, or 50% if their appointment in any other department or School is less than 50%. Faculty members who are voting members in the School of Mathematical and Statistical Sciences or the former Department of Mathematical Sciences before November 26, 2018 will continue to be voting members. A faculty member who has voting membership and who leaves the School will regain voting membership upon returning to the School. <br>
+__Section 2: Administrative Faculty__
+The Administrative Faculty shall consist of the School Director and the Division Leaders. <br>
+__Section 3: Associate Faculty__
+The Associate Faculty shall consist of all person who do not meet the criteria for voting or administrative Faculty.  
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- Changes to the University Constitution redefined faculty to include those in the lecturer ranks.
+- Included Associate and Assistant Directors as voting members (further explanation in Article IV)
+- _Note:_ Emeritus faculty __with faculty appointments__ are granted voting status
+- _Note:_ any other faculty (not on regular appointment) such as postdocs, temporary lectures, etc. and staff may be granted voting rights.  
+- Sections 2 and 3 were deleted as they are no longer needed.  
+</details>
+
+
+***
+
+## Article IV: Administrative Structure
+
+### Section 1: Administrative Council and Directors Advisory Board
+
+For School governance considerations, the Administrative Council of the School shall consist of the School Director, the Associate Directors, and the Assistant Directors.  The Director’s Advisory Board shall consist of the Director and Associate Directors. 
+
+<details>
+<summary> __Old Version__ </summary>
+For School governance considerations, the administrative committee of the School shall consist of the School Director, the Division Leaders and the Associate Directors. <font color="red"> All members of the administrative committee shall be tenured and preferably hold the rank of full professor. </font>
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- Clarifying structure of Administrative Council and Director Advisory Board
+- Streamlining names of "sub-director" positions
+- Decided on "Associate Directors" for Division Leaders and "Assistant Directors" for Undergraduate Studies, Graduate Studies, Curriculum & Instruction, and  Online Degree Programs, etc. The titles are meant to mirror the T/TT structure.  
+</details>
+
+
+### Section 2: Appointment of Associate Directors (Divsion Leads)
+
+Based on nominations from the faculty of the respective Division and advice from the MSSC, the School Director shall appoint Associate Directors. Each appointment shall be for a three-year term, effective August 15, and such Associate Directors may succeed themselves. <font color="red">_All Associate Directors shall be tenured and preferably hold the rank of full professor._ </font>
+
+<details>
+<summary> __Old Version__ </summary>
+Based on nominations from the faculty of the respective Division and advice from the MSSC, the School Director shall appoint Division Leaders. Each appointment shall be for a three-year term, effective August 15, and such Division Leaders may succeed themselves. If a Division cannot field a leader meeting the criteria in Section 1, then the School Director shall appoint one of the Associate Directors to serve as the Division Leader on a year-by-year basis.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- change to title of "Associate Directors" 
+- change to order of sections 
+</details>
+
+### Section 3: Director and Associate Directors Duties and Responsibilites
+
+The School Director shall have the duties and responsibilities accorded to the Department Chair in the faculty manual. <font color="red"> In addition, the Director should adhere to the SMSS Policies and Procedures document. </font> Associate Directors will __assist__ the Director in goal-setting and annual evaluations of the faculty in their respective Division. The School Director will review and finalize the evaluations. Associate Directors will make recommendations to the School Director for strengthening impact and strategically advancing the School’s discovery, learning, and engagement missions, including strengthening external support through grants and industry partnerships.
+
+<details>
+<summary> __Old Version__ </summary>
+The School Director shall have the duties and responsibilities accorded to the Department Chair in the faculty manual. Division Leaders will assist the Director in goal-setting and annual evaluations of the faculty in their respective Divisions. The School Director will review and finalize the evaluations. Division Leaders will make recommendations to the School Director for strengthening impact and strategically advancing the School’s discovery, learning, and engagement missions, including strengthening external support through grants and industry partnerships.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- change to title of "Associate Directors" 
+- addition of Policies and Procedure Document
+- change to order of sections 
+- _Note:_ There is a distinction between __"conducting evaluations"__ and __"assiting in evaluations"__.  If Division Leads are responsible for the evaluastion of faculty then a full search needs to be done for those positions AND the Division Leads lose their voting privileges within SMSS.  If Division Leads are assiting in the evaluations but the Director ultimately signs the evaluations then the Director can appoint these positions and they do not lose their voting privileges.  
+</details>
+
+### Section 4: Appointment of Assistant Directors
+
+Based on nominations from the Faculty and consultation with the Mathematical and Statistical Sciences Council (MSSC, defined in Article VI), the School Director shall appoint from the Faculty, Assistant Directors.   Each appointment shall be for a three-year term, effective August 15, and such Assistant Directors may succeed themselves.
+
+<details>
+<summary> __Old Version__ </summary>
+Based on nominations from the Faculty and consultation with the Mathematical and Statistical Sciences Council (MSSC, defined in Article VI), the School Director shall appoint from the Faculty the Associate Director for Instruction, the Associate Director for Undergraduate Studies, and the Associate Director for Graduate Studies. Each appointment shall be for a three-year term, effective August 15, and such associate directors may succeed themselves.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- Naming all "sub-directors", that are not Associate Directors (Division Leads), Assistant Directors
+- Specific titles of Assistant Directors will be outlined in the Policies and Procedures Document.
+</details>
+
+
+## Article V: Officers, Meetings and Voting for SMSS Faculty Meetings
+
+### Section 1: Officers of SMSS Faculty Meetings
+
+The School Director shall serve as Chairperson, and the Administrative Assistant to the Director as Secretary for meetings of the Faculty. If the School Director is unable to chair a meeting, then they shall designate one of the Associate Directors as the meeting chair. In the absence of the Administrative Assistant to the Director, the meeting chair shall appoint a secretary from the staff or faculty.
+
+<details>
+<summary> __Old Version__ </summary>
+The School Director shall serve as Chairperson, and the Administrative Assistant to the Director as Secretary for meetings of the Faculty. If the School Director is unable to chair a meeting, then they shall designate one of the Division Leaders as the meeting chair. In the absence of the Administrative Assistant to the Director, the meeting chair shall appoint a secretary from the staff or faculty.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- changing Division Lead to Associate Director
+</details>
+
+### Section 2: Frequency of SMSS Faculty Meetings
+
+The School Director shall call at least one meeting of the Faculty in each of the fall and spring semesters and any other meeting at their discretion, or upon a petition of at least 25% of the Voting Faculty. Minutes of each meeting shall be forwarded to the Dean of the College. <font color="red"> Minutes of each meeting shall be uploaded to the Science Nucleus. </font>
+
+<details>
+<summary> __Old Version__ </summary>
+The School Director shall call at least one meeting of the Faculty in each of the long semesters and any other meeting at their discretion, or upon a petition of at least 25% of the Voting Faculty. Minutes of each meeting shall be forwarded to the Dean of the College. 
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- changing "long semesters" to "Fall and Spring" semesters for clarity
+</details>
+
+### Section 3: Agenda Items for SMSS Faculty Meetings
+
+Written notification of the agenda for meetings shall be provided to the Faculty at least 24 hours in advance of meetings. Non-agenda items may not come to a vote at a meeting unless 50% of the Voting Faculty is present.
+
+### Section 4: Quorun and Results of Voting in SMSS Faculty Meetings
+
+A quorum for a vote shall consist of the faculty in the SMSS faculty meeting. The result of any vote where there are only two possible outcomes (whether at a meeting, electronically, or otherwise) is determined by a simple majority of the eligible votes cast. In the case of a tie, the motion fails. For votes during meetings, proxy votes count if notice has been sent by a Voting Faculty member to the presiding chair before the meeting authorizing an attending voting faculty member to vote her or his proxy. <font color="red"> Guidelines for votes in which there are more than two possible outcomes shall be determined and clearly communicated by the MSSC. </font> Rules in other sections of the bylaws or the TPR or PTR guidelines that govern voting supersede the rules in this section.
+
+<details>
+<summary> __Old Version__ </summary>
+A quorum for a vote shall consist of 51% of the Voting Faculty. The result of any vote where there are only two possible outcomes (whether at a meeting, electronically, or otherwise) is determined by a simple majority of the eligible votes cast. In the case of a tie, the motion fails. For votes during meetings, proxy votes count if notice has been sent by a Voting Faculty member to the presiding chair before the meeting authorizing an attending voting faculty member to vote her or his proxy. Guidelines for votes in which there are more than two possible outcomes shall be determined and clearly communicated by the MSSC. Rules in other sections of the bylaws or the TPR or PTR guidelines that govern voting supersede the rules in this section.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- Since we conduct electronic voting, it is best to have quorum be "members present" so that a meeting and discussion to occur.  Beyond quorum, in order for a vote to pass a simple majority is needed for votes with 2 outcomes.  
+</details>
+
+
+### Section 5: Voting Procedure for Meetings of all faculty
+Voting shall be conducted using electronic voting. All votes cast for any measure shall utilize the same method of casting votes. Voting shall be open <font color="red"> X </font> hours before any duly called meeting of the faculty and close <font color="red"> X </font> hours after to the adjournment of the same meeting. The Secretary shall record a teller’s report in the minutes for the next meeting of the Faculty and the School Director shall distribute to the Faculty the results of the vote no later than 7 calendar days after the close of voting.
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+This is a new section in the by-laws.  Suggested language for schools/departments that conduct their votes by electronically.  
+</details>
+
+
+## Article VI: Organization of the Faculty
+
+### Section 1: Organization of Divsions and Sub-faculty
+
+The School is composed of three divisions, hereafter referred to as Divisions in the bylaws, established by the School Director.  All faculty employed by the School shall have an academic appointment in the School. The Divisions within the School are: 
+
+- Mathematics
+- Statistics and Operations Research
+- Mathematics and Statistics Education
+
+Each division contains multiple sub faculties.  
+
+The Mathematics Division consist of these sub faculties: 
+- Algebra and Discrete Mathematics
+- Computational Mathematics
+- Pure and Applied Analysis.
+
+The Statistics and Operations Research Division consists of these sub faculties : 
+- Applied Statistics and Data Science
+- Operations Research
+- Probability and Mathematical Statistics. 
+
+The Mathematics and Statistics Education Division consists of these sub faculties: 
+- Mathematics Education
+- Statistics Education
+
+<details>
+<summary> __Old Version__ </summary>
+For purposes of representation on various matters, the Faculty is organized as follows. There are three Divisions: Mathematics, Statistics and Operations Research, and Mathematics and Statistics Education. The Mathematics Division consists of three subfaculties: Algebra and Discrete Mathematics, Computational Mathematics, and Pure and Applied Analysis. The Statistics and Operations Research Division consists of three subfaculties: Applied Statistics and Data Science, Operations Research, and Probability and Mathematical Statistics. The Mathematics and Statistics Education Division consists of two subfaculties: Mathematics Education and Statistics Education.
+
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- easier to read in bullet points
+</details>
+
+
+### Section 2: Sub-faculty Membership
+
+Membership on multiple sub-faculties or Divisions is encouraged. However, each faculty member shall designate (or have designated by the School Director in the absence of a choice) one of the sub-faculties for primary membership and shall be entitled to vote on matters pertaining to sub-faculty representation in School affairs in that sub-faculty only. 
+
+<details>
+<summary> __Old Version__ </summary>
+Membership on multiple subfaculties or divisions is encouraged. However, each faculty member shall designate (or have designated by the School Director in the absence of a choice) one of the subfaculties for primary membership and shall be entitled to vote on matters pertaining to subfaculty representation in School affairs in that subfaculty only. Special faculty shall have primary membership in one of the subfaculties in the Mathematics and Statistics Education Division.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- removing "Special Faculty" provision
+</details>
+
+
+### Section 3: Sub-faculty Responsibilites
+
+Each subfaculty shall have developmental responsibilities relative to academic matters associated with the subfaculty’s interest area. These may include, but are not limited to, updating course syllabi and catalog descriptions, actively participating in the recruitment of faculty, assisting in the administration of multiple section courses, and promoting research and professional development.
+
+#### Add in Section 4 Designation of MSSC to next Article 
+
+## Article VII: The Mathematical and Statistical Sciences Council
+
+### Section 1: 
+
+
+
+
+<details>
+<summary> __Old Version__ </summary>
+
 </details>
 
 <details>
 <summary> __Explanation of Changes__ </summary>
 
 </details>
-
-
