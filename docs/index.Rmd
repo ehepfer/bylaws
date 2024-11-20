@@ -1,0 +1,104 @@
+---
+title: "SMSS By Laws Revisions: 2024-2025"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{css, echo = FALSE}
+h1, #TOC>ul>li {
+  color: #000000;
+  font-weight: bold;
+}
+
+h2, #TOC>ul>li {
+  color: #F56600;
+  font-weight: bold;
+}
+
+h3, #TOC>ul>li {
+  color: #522D80;
+  font-weight: bold;
+}
+
+h4, #TOC>ul>li {
+  color: #f0188b;
+  font-weight: bold;
+}
+
+h5, #TOC>ul>li {
+  color: #04FD1E;
+  font-weight: bold;
+}
+
+code {
+  background-color: transparent;
+  font-weight: bold;
+}
+
+p {
+  font-size: 16px;
+  color: blue;
+}
+```
+
+# SCHOOL OF MATHEMATICAL AND STATISTICAL SCIENCES GOVERNANCE DOCUMENT (SCHOOL BYLAWS)
+
+## Article 1: Name, Vision, Mission
+
+### Section 1: Name
+These Bylaws establish the faculty assembly of the School of Mathematical and Statistical Sciences, hereafter referred to in these bylaws as “the School”. 
+
+### Section 2: Vision and Mission
+The School is dedicated to Clemson's overall mission of discovery, learning, and engagement.  
+
+<details>
+<summary> __Old Version__ </summary>
+This is a new section of the by-laws.  
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+This is a new section of the by-laws.  This is a recommended section as the purpose of the By-laws is to set up the shared governance responsibilities of the School of Mathematical and Statistical Sciences.  It if fiting to start that document with the Name and Scope of the School. 
+</details>
+
+***
+
+## Article II: Objective
+
+The objective of the Faculty of Mathematical and Statistical Sciences, referred to as the Faculty, shall be to approve curricula and curricular matters; to consider policies affecting teaching, research and other scholarly activities, welfare, and such other matters as might pertain to common professional goals.
+
+The regulations, policies, and procedures of the College of Science and the Clemson University Faculty Manual shall govern matters not treated in these bylaws. The College of Science Bylaws shall take precedence if they conflict with these bylaws. Provisions in these bylaws that are inconsistent with the Clemson University Faculty Manual are null and void.  
+
+<details>
+<summary> __Old Version__ </summary>
+   The objective of the Faculty of Mathematical and Statistical Sciences, referred to as the Faculty, shall be to approve curricula and curricular matters; to consider policies affecting teaching, research and other scholarly activities, welfare, and such other matters as might pertain to common professional goals.
+   The regulations, policies, and procedures of the College of Science and the Clemson University Faculty Manual shall govern matters not treated in these bylaws. The College of Science Bylaws shall take precedence if they conflict with these bylaws. Provisions in these bylaws that are inconsistent with the Clemson University Faculty Manual are null and void.  
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+No change was made to this article.   
+</details>
+
+***
+
+## Article III: Membership
+
+### Section 1: Voting Faculty
+
+The voting membership of the School shall be composed of all faculty, as defined by the Constitution of the Faculty of Clemson University, with majority regular appointments in the School, including Associate and Assistant Directors with regular appointments, hereafter referred to in these bylaws as “the Faculty”.  Emeritus faculty with any faculty appointment, other than administrative, in the School shall be members of the Faculty.  Other faculty or academic staff not automatically granted voting membership shall be granted voice, invited to attend meetings of the Faculty, and may be conferred voting membership by majority vote at any duly called meeting of the Faculty.  
+
+<details>
+<summary> __Old Version__ </summary>
+The Voting Faculty shall consist of all individuals, designated by School personnel records as belonging to the Faculty of the School of Mathematical and Statistical Sciences, who are regular faculty, principal or senior lecturers, as defined in the Faculty Manual, and who are not on unpaid leave. Faculty with joint appointments, who are tenured, tenure-track, or principal / senior lecturers, are voting members in the School if their appointment is at least 51% in the School of Mathematical and Statistical Sciences, or 50% if their appointment in any other department or School is less than 50%. Faculty members who are voting members in the School of Mathematical and Statistical Sciences or the former Department of Mathematical Sciences before November 26, 2018 will continue to be voting members. A faculty member who has voting membership and who leaves the School will regain voting membership upon returning to the School.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+
+</details>
+
+
