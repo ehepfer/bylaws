@@ -241,16 +241,19 @@ The School is composed of three divisions, hereafter referred to as Divisions in
 Each division contains multiple sub faculties.  
 
 The Mathematics Division consist of these sub faculties: 
+
 - Algebra and Discrete Mathematics
 - Computational Mathematics
 - Pure and Applied Analysis.
 
-The Statistics and Operations Research Division consists of these sub faculties : 
+The Statistics and Operations Research Division consists of these sub faculties:
+
 - Applied Statistics and Data Science
 - Operations Research
 - Probability and Mathematical Statistics. 
 
 The Mathematics and Statistics Education Division consists of these sub faculties: 
+
 - Mathematics Education
 - Statistics Education
 
@@ -287,10 +290,159 @@ Each subfaculty shall have developmental responsibilities relative to academic m
 
 #### Add in Section 4 Designation of MSSC to next Article 
 
-## Article VII: The Mathematical and Statistical Sciences Council
+## Article VII: The Mathematical and Statistical Sciences Council 
 
-### Section 1
+### Section 1: MSSC Duties and Responsibilities
 
+The Mathematical and Statistical Sciences Council (MSSC) shall serve as the standing advisory committee for the School, and in that capacity shall advise the School Director on long-range planning, committee assignments, matters of School and faculty welfare, matters pertaining to new teaching and research appointments within the School and on any and all matters brought to it by the Faculty or the School Director.
+
+### Section 2: Frequency of Meetings for MSSC
+
+The MSSC shall schedule at least three meetings during each of the fall and spring semesters and otherwise as necessary. The School Director shall serve as Chairperson. These meetings are open to the Faculty. Generally, the agenda of the MSSC shall be made available to the Faculty 7 calendar days prior to its meetings. Any member of the Faculty may submit to the School Director, in writing, items for this agenda. <font color="red"> Preferably the new agenda items would be submitted to the Director prior to the meeting. </font> The minutes of the MSSC meetings shall be distributed to the Faculty in a timely fashion.
+
+<details>
+<summary> __Old Version__ </summary>
+The MSSC shall schedule at least three meetings during the long semesters and otherwise as necessary. The School Director shall serve as Chairperson. These meetings are open to the Faculty. Generally, the agenda of the MSSC shall be made available to the Faculty one week prior to its meetings. Any member of the Faculty may submit to the School Director (in writing) items for this agenda. The minutes of the MSSC meetings shall be distributed to the Faculty in a timely fashion.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- Change "long semesters" to "fall and spring semesters"
+</details>
+
+### Section 3: Review of MSSC Actions
+
+Any action of the MSSC may be called for review by the entire Faculty at one of the Faculty meetings as specified in Article V.
+
+### Section 4: Membership of MSSC
+
+Each of the subfaculties in the School shall elect a representative to the MSSC, who shall serve as a voting member of the MSSC. The School Director, the Associate Directors and the Assistant Directors shall be nonvoting members of the MSSC.
+
+<details>
+<summary> __Old Version__ </summary>
+The Mathematics and Statistics Education Division and each of the subfaculties in the Mathematics and Statistics and Operations Research Divisions shall elect a representative to the MSSC, who shall serve as a voting member of the MSSC. The School Director, the Associate Directors and the Division Leaders shall be nonvoting members of the MSSC.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- Since the rank of lecturer is now part of regular faculty, we recommend the Mathematics and Statistics Education Division have similar representation on MSSC to the other divisions.  
+</details>
+
+### Section 5: Designation of MSSC Membership and other Committees
+
+Elections for membership on MSSC and other committees as prescribed in Article IX shall be held by April 15, and elected terms shall be for one year beginning August 15. In order to qualify for membership on any committee listed in Article VIII, a faculty member must be a voting member of the School
+
+<details>
+<summary> __Old Version__ </summary>
+Elections for membership on MSSC and other committees as prescribed in Article VII shall be held by April 15, and elected terms shall be for one year beginning August 15. In order to qualify for membership on any committee listed in Article VII, a faculty member must be a voting member of the School and shall have administrative appointments outside the School totaling no more than 49%.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- moved this Section from Article VI
+- removed "and shall have administrative appointments outside the School totaling no more than 49%." as this is already specified in voting membership
+</details>
+
+
+## Article VIII Committees
+
+The School shall have the following standing committees, in addition to MSSC:
+
+1. Administrative Committee
+2. Computing Facilities Committee
+3. Undergraduate Affairs and Curriculum Committee
+4. Graduate Affairs and Curriculum Committee
+5. Research and Development Committee
+6. TPR Committee
+
+The Director, or the Faculty by majority vote in MSSC, may constitute 
+and charge temporary (ad hoc) committees provided such committees are formally charged during a MSSC meeting and the agenda item includes the specific charge, length of service, and composition. Temporary Committees shall report their activities at each MSSC meeting for the duration of their charge and issue a final report upon completion of the charge or at the conclusion of the term of service. The Director may appoint members, or designate ex-officio voting members, to temporary committees provided that at least a majority of the membership is selected by the MSSC. 
+
+Additional Standing Committees may be added by amendment to these bylaws.
+
+
+
+<details>
+<summary> __Old Version__ </summary>
+The School shall have the following standing committees, in addition to MSSC:
+
+1. Administrative Committee
+2. Computing Facilities Committee
+3. Undergraduate Affairs Committee
+4. Graduate Affairs Committee
+5. Curriculum Committee
+6. Research and Development Committee
+7. Division TPR Committees
+8. Lecturer Advisory Committee
+9. Post Tenure and Special Faculty Review Committee
+
+Ad hoc and other committees may be appointed by the School Director as needed. Except as specified below, the School Director, with the advice of the MSSC, shall fix the size of all committees and assign their duties; and, with the approval of the MSSC, shall appoint the chairpersons and members. The Curriculum Committee shall report to the MSSC. The Tenure, Promotion, and Reappointment Committee, the Computing Facilities Committee, and the Administrative Committee report directly to the School Director. Other committees may report to the School Director, the MSSC, or the Faculty as determined by the School Director.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- removed Division TPR Committees, Lecture Advisory Committee, and Post Tenure and Special Faculty Review Commmittees.  These will become sub-committees under TPR Committee. 
+- elimiated Curriculum Committee and moved curriculum matters to Undergraduate and Graduate affairs committees (see below)
+-added ability of faculty to add Ad Hoc Committees
+</details>
+
+
+### Section 1: Administrative Council
+
+The Administrative Council, defined in Article III, Section 1, shall be chaired by the School Director and shall advise the School Director on scheduling of courses, budget, workload, and other administrative matters.
+
+### Section 2: Computing Facilities Committee 
+
+The Computing Facilities Committee shall advise the School Director on the purchase, disposition, and allocation of computing resources within the School. A member of this committee will be appointed by the School Director to serve as the School’s representative to the College’s Computer Resources Committee.
+
+### Section 3: Undergraduate Affairs and Curriculum Committee
+
+The Undergraduate Affairs and Curriculum Committee shall include one representative from each of the subfaculties across all divisions. The Assistant Director for Undergraduate Affairs shall serve as an ex-officio voting member of the committee.  The Committee will elect a chair of the Committee and the representative on the College Undergraduate Curriculum Committee.  The Committee shall advise the MSSC on undergraduate curricula and other matters pertaining to the undergraduate program. Other duties may be assigned by the School Director. Generally, the Committee’s agenda will be made available to the Faculty one week prior to its meetings. The committee may appoint subcommittees, not necessarily from its own members, as needed. Any such subcommittee shall report to the Committee. A subcommittee of undergraduate student advisors shall be a standing subcommittee, whose activities shall be coordinated by the Assistant Director for Undergraduate Affairs.
+
+<details>
+<summary> __Old Version__ </summary>
+The Undergraduate Affairs Committee shall be chaired by the Associate Director for Undergraduate Studies and shall include one representative from each of the subfaculties across all divisions. It shall advise the MSSC on undergraduate curricula and other matters pertaining to the undergraduate program. Other duties may be assigned by the School Director. Generally, the Committee’s agenda will be made available to the Faculty one week prior to its meetings. The committee may appoint subcommittees, not necessarily from its own members, as needed. Any such subcommittee shall report to the Committee. A subcommittee of undergraduate student advisors shall be a standing subcommittee, whose activities shall be coordinated by the Associate Director for Undergraduate Affairs.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- The Faculty Manual requires that faculty representatives serving on University and College committees be elected faculty members. Currently, in order to satisfy this requirement, the School’s Curriculum Committee is defined to be all members of both the Graduate and Undergraduate Affairs Committees. A nominal “election” of the Chair of the Curriculum Committee is then held with the Undergraduate Coordinator being elected Chair. Currently changes to the Undergraduate curricula (or the Graduate curricula) are proposed, discussed and voted on in the Undergraduate Affairs (or the Graduate Affairs) Committee. These changes are then re-proposed discussed and voted on in the Curriculum Committee before advancing out of the School. The proposed change would eliminate the redundancy of curricula changes (after having passed the Undergraduate or Graduate Affairs Committee) having to go through a separate Curriculum Committee.
+- In practice the hope is that the Assistant Director of Undergraduate Affairs serve as the chair of the Committee but that is not required.  
+</details>
+
+### Section 4: Graduate Affairs and Curriculum Committee 
+
+The Graduate Affairs and Curriculum Committee shall include one representative from each subfaculty. The Assistant Director for Graduate Studies shall serve as an ex-officio voting member of the committee.  The Committee will elect a chair of the Committee and the representative on the College Graduate Curriculum Committee.  The Committee shall advise the MSSC on graduate curricula and other matters, including assistantships and awards, pertaining to the graduate program. Other duties may be assigned by the School Director. Generally, the Committee’s agenda will be made available to the Faculty one week prior to its meetings. The committee may appoint subcommittees, not necessarily from its own members, as needed. Any such subcommittee shall report to the Committee. A subcommittee of advisors for entering graduate students shall be a standing subcommittee, whose activities shall be coordinated by the Assistant Director for Graduate Studies.
+
+<details>
+<summary> __Old Version__ </summary>
+The Graduate Affairs Committee shall be chaired by the Associate Director for Graduate Studies and shall include one representative from the Mathematics and Statistics Education Division and from each subfaculty in the Mathematics and Statistics and Operations Research Divisions. It shall advise the MSSC on graduate curricula and other matters, including assistantships and awards, pertaining to the graduate program. Other duties may be assigned by the School Director. Generally, the Committee’s agenda will be made available to the Faculty one week prior to its meetings. The committee may appoint subcommittees, not necessarily from its own members, as needed. Any such subcommittee shall report to the Committee. A subcommittee of advisors for entering graduate students shall be a standing subcommittee, whose activities shall be coordinated by the Associate Director for Graduate Studies.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- The Faculty Manual requires that faculty representatives serving on University and College committees be elected faculty members. Currently, in order to satisfy this requirement, the School’s Curriculum Committee is defined to be all members of both the Graduate and Undergraduate Affairs Committees. A nominal “election” of the Chair of the Curriculum Committee is then held with the Undergraduate Coordinator being elected Chair. Currently changes to the Undergraduate curricula (or the Graduate curricula) are proposed, discussed and voted on in the Undergraduate Affairs (or the Graduate Affairs) Committee. These changes are then re-proposed discussed and voted on in the Curriculum Committee before advancing out of the School. The proposed change would eliminate the redundancy of curricula changes (after having passed the Undergraduate or Graduate Affairs Committee) having to go through a separate Curriculum Committee.
+- In practice the hope is that the Assistant Director of Graduate Studies serve as the chair of the Committee but that is not required.
+</details>
+
+### Section 5: Research and Development Committee
+
+The Research and Development Committee endeavors to foster research, development, and outreach activities of the School. It is responsible for organizing a program of colloquium speakers, conserving and trying to increase resources available for research and faculty development, and providing information to the scholarly community about the research activities of the School. The committee is also responsible for assisting the School Director in development activities and alumni relations. The leaders of the Mathematics and Statistics and Operations Research Divisions shall be co-chairs of this committee.  Each subfaculty from those two divisions shall elect a member to the Research and Development Committee. The Mathematics and Statistics Education Division shall elect one representative. The committee may appoint subcommittees, not necessarily from its own members, as needed. Any such subcommittee shall report to the Committee.
+
+
+### Section 6: Tenure, Promotion and Reappointment (TPR) Committee
+
+The TPR Committee shall serve as the School’s evaluation committee in matters related to appointment, reappointment, promotion, tenure, post tenure, and graduate faculty status review of all faculty with or pursing appointments within the School. The procedures and criteria for Post-Tenure Review, Tenure, Promotion, and Reappointment may be found in the department’s separate TPR document. The committee may also be involved in additional personnel matters as deemed appropriate by the Director to provide input into personnel decisions including, but not limited to, meritorious compensation, disciplinary action, or conflict resolution. The committee shall meet as often as necessary to accomplish this charge.
+
+<details>
+<summary> __Old Version__ </summary>
+
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+
+</details>
 
 
 
