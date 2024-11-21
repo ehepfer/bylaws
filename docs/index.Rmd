@@ -165,6 +165,8 @@ Based on nominations from the Faculty and consultation with the Mathematical and
 </details>
 
 
+*** 
+
 ## Article V: Officers, Meetings and Voting for SMSS Faculty Meetings
 
 ### Section 1: Officers of SMSS Faculty Meetings
@@ -222,6 +224,7 @@ Voting shall be conducted using electronic voting. All votes cast for any measur
 This is a new section in the by-laws.  Suggested language for schools/departments that conduct their votes by electronically.  
 </details>
 
+***
 
 ## Article VI: Organization of the Faculty
 
@@ -283,7 +286,7 @@ Membership on multiple subfaculties or divisions is encouraged. However, each fa
 
 Each subfaculty shall have developmental responsibilities relative to academic matters associated with the subfaculty’s interest area. These may include, but are not limited to, updating course syllabi and catalog descriptions, actively participating in the recruitment of faculty, assisting in the administration of multiple section courses, and promoting research and professional development.
 
-
+***
 
 ## Article VII: The Mathematical and Statistical Sciences Council 
 
@@ -338,6 +341,7 @@ Elections for membership on MSSC and other committees as prescribed in Article V
 - removed "and shall have administrative appointments outside the School totaling no more than 49%." as this is already specified in voting membership
 </details>
 
+***
 
 ## Article VIII Committees
 
@@ -444,6 +448,8 @@ Section 9. The Post Tenure and Special Faculty (PTSF) review Committee shall be 
 The new TPR document will combine these committee into one TPR Committee with sub-committees.  
 </details>
 
+***
+
 ## Article IX Representatives
 
 ### Section 1: 
@@ -476,6 +482,7 @@ A replacement for the unexpired term of any representative to the MSSC, college 
 - update to comply with practice
 </details>
 
+***
 
 ## Article X: Hiring of Faculty
 
@@ -510,6 +517,7 @@ In the case of an appointment to a faculty position not described here (e.g. pos
 - Edited to comply with current practices
 </details>
 
+***
 
 ## Article XI: Amendments
 
@@ -543,6 +551,7 @@ The Guidelines for Tenure, Promotion and Reappointment for the School of Mathema
 - combined TPR and Post Tenure Review Guideline ammendments 
 </details>
 
+***
 
 ## Article XII: Parlimentary Authority
 
