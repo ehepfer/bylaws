@@ -5,6 +5,7 @@ output:
     toc: true
     toc_depth: 3
     toc_float: true
+    theme: flatly
 ---
 
 ```{r setup, include=FALSE}
@@ -41,7 +42,7 @@ p {
 
 # SCHOOL OF MATHEMATICAL AND STATISTICAL SCIENCES GOVERNANCE DOCUMENT (SCHOOL BYLAWS)
 
-## Article 1: Name, Vision, Mission
+## Article I: Name, Vision, Mission
 
 ### Section 1: Name
 These Bylaws establish the faculty assembly of the School of Mathematical and Statistical Sciences, hereafter referred to in these bylaws as “the School”. 
