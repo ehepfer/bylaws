@@ -3,7 +3,7 @@ title: "SMSS By Laws Revisions: 2024-2025 - DRAFT"
 output: 
    html_document:
     toc: true
-    toc_depth: 3
+    toc_depth: 2
     toc_float: true
     theme: flatly
 ---
