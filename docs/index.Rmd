@@ -1,6 +1,10 @@
 ---
 title: "SMSS By Laws Revisions: 2024-2025 - DRAFT"
-output: html_document
+output: 
+   html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
@@ -24,23 +28,13 @@ h3, #TOC>ul>li {
 }
 
 h4, #TOC>ul>li {
-  color: #f0188b;
-  font-weight: bold;
-}
-
-h5, #TOC>ul>li {
-  color: #04FD1E;
-  font-weight: bold;
-}
-
-code {
-  background-color: transparent;
+  color: #F56600;
   font-weight: bold;
 }
 
 p {
   font-size: 16px;
-  color: blue;
+  color: #522D80;
 }
 
 ```
@@ -436,22 +430,125 @@ The TPR Committee shall serve as the School’s evaluation committee in matters 
 
 <details>
 <summary> __Old Version__ </summary>
+Section 7. Divisions containing voting faculty who are also regular faculty shall each have their own Tenure, Promotion, and Reappointment Committee. The creation and function of each committee shall be in accordance with the Guidelines for Tenure, Promotion, and Reappointment for the School of Mathematical and Statistical Sciences.
+
+Section 8. The Lecturer Advisory Committee will consist of six lecturers who hold the rank of senior lecturer or higher. Its creation and function shall be in accordance with the Guidelines for Tenure, Promotion and Reappointment for the School of Mathematical and Statistical Sciences.
+
+Section 9. The Post Tenure and Special Faculty (PTSF) review Committee shall be determined and function in accordance with the Guidelines for Tenure, Promotion, and Reappointment for the School of Mathematical and Statistical Sciences.
 
 </details>
 
 <details>
 <summary> __Explanation of Changes__ </summary>
-
+The new TPR document will combine these committee into one TPR Committee with sub-committees.  
 </details>
+
+## Article IX Representatives
+
+### Section 1: 
+
+Elections of Faculty representatives to various college or university organizations shall either occur at a meeting of the Faculty or by mail or electronic ballot. Nominations are accepted from the Voting Faculty. The timeline and process for electing representation for College level and University committees shall be conducted according to the College of Science bylaws. 
+
+<details>
+<summary> __Old Version__ </summary>
+Elections of Faculty representatives to various college or university organizations shall either occur at a meeting of the Faculty or by mail or electronic ballot. Nominations are accepted from the Voting Faculty. Elections for alternates shall be conducted separately.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- new election procedures outlined in the COS bylaws  
+</details>
+
+### Section 2.  Replacement of unexpired term.
+
+A replacement for the unexpired term of any representative to the MSSC, college or university organization, or School committee who is unable to complete a term shall be appointed by the Director. The replacement takes office immediately upon selection.
 
 
 
 <details>
 <summary> __Old Version__ </summary>
-
+A replacement for the unexpired term of any representative to the MSSC, college or university organization, or School committee who is unable to complete a term shall be selected as soon as possible, using the same rules as the original selection. The replacement takes office immediately upon selection.
 </details>
 
 <details>
 <summary> __Explanation of Changes__ </summary>
+- update to comply with practice
+</details>
 
+
+## Article X: Hiring of Faculty
+
+### Section 1: Regular Appointments
+
+To fill a regular appointment faculty position within a Division, the Division Leader, with input from the School Director, will appoint a Search Committee consisting primarily of members of subfaculties directly related to the area of the candidate, who will conduct the search in accordance with the Clemson University Faculty Manual. Members of the Search Committee shall be from at least two different subfaculties, and be composed in accordance with College of Science and University guidelines. This will normally mean that at least one member of the Search Committee will be from a subfaculty that differs from the primary area specified for the candidate. The Search Committee will invite feedback from all faculty members of the School to discuss the relative merits of the final candidates. Outcomes of this process will be considered by the Search Committee in its final deliberation and will be presented to the Division Leader and the Director; the Division Leader will advise the Director in making the selection.
+
+
+<details>
+<summary> __Old Version__ </summary>
+Section 1. To fill a tenured or tenure-track faculty position, a Division Leader, with input from the School Director, will appoint a Search Committee consisting primarily of members of sub-faculties directly related to the area of the candidate, who will conduct the search in accordance with the Clemson University Faculty Manual. Members of the Search Committee shall be from at least two different subfaculties, and be composed in accordance with College of Science and University guidelines. This will normally mean that at least one member of the Search Committee will be from a subfaculty that differs from the primary area specified for the candidate. The Search Committee will invite feedback from all faculty members of the School to discuss the relative merits of the final candidates. It will also conduct a vote of the respective Division Faculty on candidate preferences and candidate acceptability/unacceptability. Both qualitative and quantitative outcomes of this process will be considered by the Search Committee in its final deliberation and will be presented to the Division Leader and the Director; the Division Leader will advise the Director in making the selection.
+<br>
+Section 2.  Search committees for lecturers, including a designated chair, shall be appointed by the School Director, with advice from Division Leaders and the MSSC. The search committee, consisting of three members, shall make a recommendation to the Director.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- In order for consistency across all disciplines we recommend the search committee process be conducted for all regular faculty appointments.  
+</details>
+
+### Section 2: Special Appointments
+
+In the case of an appointment to a faculty position not described here (e.g. postdoctoral research fellow, temporary faculty, or research faculty), the School Director and, if applicable, the sponsoring regular faculty member, will consult with the MSSC regarding the appointee’s qualifications.  If desired a search committee may be formed to evaluate candidates.  
+
+<details>
+<summary> __Old Version__ </summary>
+In the case of an appointment to a faculty position not described here (e.g. postdoctoral research fellow or research faculty), the School Director and, if applicable, the sponsoring regular faculty member, will consult with the MSSC regarding the appointee’s qualifications.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- Edited to comply with current practices
+</details>
+
+
+## Article XI: Amendments
+
+### Section 1: Amendments to By-laws
+
+The Bylaws can be amended by the Voting Faculty, either at a meeting of the Faculty or electronic ballot, provided the amendment has been distributed to each member at least two weeks in advance of the voting. Passage requires support by 51% of the Voting Faculty or 2/3 of the votes cast, whichever count is larger.
+
+<details>
+<summary> __Old Version__ </summary>
+The Bylaws can be amended by the Voting Faculty, either at a meeting of the Faculty or by mail or electronic ballot, provided the amendment has been distributed to each member at least two weeks in advance of the voting. Passage requires support by 51% of the Voting Faculty or 2/3 of the votes cast, whichever count is larger.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- removed "by mail"
+</details>
+
+### Section 2: TPR Guidelines
+
+The Guidelines for Tenure, Promotion and Reappointment and Post Tenure Review Guidelines for the School of Mathematical and Statistical Sciences can be amended at the request of a member of the Tenure, Promotion, and Reappointment Committee and subject to ratification by the regular faculty. Amendments approved by a majority vote of the combined voting membership of the Tenure, Promotion, and Reappointment Committees will be distributed to each member of the regular faculty at least two weeks in advance of the vote for ratification. Support by 51% of the combined voting membership or 2/3 of the votes cast, whichever count is larger, is required for ratification. Voting may be either at a meeting or electronic ballot.
+
+<details>
+<summary> __Old Version__ </summary>
+The Guidelines for Tenure, Promotion and Reappointment for the School of Mathematical and Statistical Sciences can be amended at the request of a member of either Division’s Tenure, Promotion, and Reappointment Committee subject to ratification by the regular faculty. Amendments approved by a majority vote of the combined voting membership of the two Tenure, Promotion, and Reappointment Committees will be distributed to each member of the regular faculty at least two weeks in advance of the vote for ratification. Support by 51% of the combined voting membership or 2/3 of the votes cast, whichever count is larger, is required for ratification. Voting may be either at a meeting or by mail or electronic ballot.
+</details>
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- changed language for one TPR committee rather than 2
+- removed "by mail"
+- combined TPR and Post Tenure Review Guideline ammendments 
+</details>
+
+
+## Article XII: Parlimentary Authority
+
+The rules contained in the current edition of Robert’s Rules of Order Newly Revised shall govern this assembly in all cases to which they are applicable and in which they are not inconsistent with these bylaws, the College bylaws, the Faculty Manual, the Constitution of the Faculty of Clemson University, and any special rules of order the faculty may adopt.
+
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- new section designating that Parlimentary Authority unless otherwise specified.  
 </details>
