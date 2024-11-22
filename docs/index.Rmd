@@ -326,6 +326,15 @@ The Mathematics and Statistics Education Division and each of the subfaculties i
 - Since the rank of lecturer is now part of regular faculty, we recommend the Mathematics and Statistics Education Division have similar representation on MSSC to the other divisions.  
 </details>
 
+### Section 5: Policies and Procedures
+
+The SMSS Policies and Procedures Document (PPD) shall be created by the MSSC (or an appointed subcommittee).  Approval and amendments of the PPD shall be made by a 2/3 vote of the MSSC voting members.  
+
+<details>
+<summary> __Explanation of Changes__ </summary>
+- Section is added to make reference to creation, ammendment, and approval of the Policies and Procedures Document
+</details>
+
 ***
 
 ## Article VIII Committees
