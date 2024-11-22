@@ -112,7 +112,7 @@ For School governance considerations, the administrative committee of the School
 <details>
 <summary> __Explanation of Changes__ </summary>
 - Clarifying structure of Administrative Council and Director Advisory Board
-- Streamlining names of "sub-director" positions
+- Streamlining names of "subdirector" positions
 - Decided on "Associate Directors" for Division Leaders and "Assistant Directors" for Undergraduate Studies, Graduate Studies, Curriculum & Instruction, and  Online Degree Programs, etc. The titles are meant to mirror the T/TT structure.  
 </details>
 
@@ -160,7 +160,7 @@ Based on nominations from the Faculty and consultation with the Mathematical and
 
 <details>
 <summary> __Explanation of Changes__ </summary>
-- Naming all "sub-directors", that are not Associate Directors (Division Leads), Assistant Directors
+- Naming all "subdirectors", that are not Associate Directors (Division Leads), Assistant Directors
 - Specific titles of Assistant Directors will be outlined in the Policies and Procedures Document.
 </details>
 
@@ -228,7 +228,7 @@ This is a new section in the bylaws.  Suggested language for schools/departments
 
 ## Article VI: Organization of the Faculty
 
-### Section 1: Organization of Divsions and Sub-faculty
+### Section 1: Organization of Divsions and Subfaculty
 
 The School is composed of three divisions, hereafter referred to as Divisions in the bylaws, established by the School Director.  All faculty employed by the School shall have an academic appointment in the School. The Divisions within the School are: 
 
@@ -236,21 +236,21 @@ The School is composed of three divisions, hereafter referred to as Divisions in
 - Statistics and Operations Research
 - Mathematics and Statistics Education
 
-Each division contains multiple sub faculties.  
+Each division contains multiple subfaculties.  
 
-The Mathematics Division consist of these sub faculties: 
+The Mathematics Division consist of these subfaculties: 
 
 - Algebra and Discrete Mathematics
 - Computational Mathematics
 - Pure and Applied Analysis.
 
-The Statistics and Operations Research Division consists of these sub faculties:
+The Statistics and Operations Research Division consists of these subfaculties:
 
 - Applied Statistics and Data Science
 - Operations Research
 - Probability and Mathematical Statistics. 
 
-The Mathematics and Statistics Education Division consists of these sub faculties: 
+The Mathematics and Statistics Education Division consists of these subfaculties: 
 
 - Mathematics Education
 - Statistics Education
@@ -269,7 +269,7 @@ For purposes of representation on various matters, the Faculty is organized as f
 
 ### Section 2: Subfaculty Membership
 
-Membership on multiple subfaculties or Divisions is encouraged. However, each faculty member shall designate, in consultation with the Directors, (or have designated by the School Director in the absence of a choice) one of the subfaculties for primary membership and shall be entitled to vote on matters pertaining to sub-faculty representation in School affairs in that sub-faculty only. 
+Membership on multiple subfaculties or Divisions is encouraged. However, each faculty member shall designate, in consultation with the Directors, (or have designated by the School Director in the absence of a choice) one of the subfaculties for primary membership and shall be entitled to vote on matters pertaining to subfaculty representation in School affairs in that subfaculty only. 
 
 <details>
 <summary> __Old Version__ </summary>
@@ -282,7 +282,7 @@ Membership on multiple subfaculties or divisions is encouraged. However, each fa
 </details>
 
 
-### Section 3: Sub-faculty Responsibilites
+### Section 3: Subfaculty Responsibilites
 
 Each subfaculty shall have developmental responsibilities relative to academic matters associated with the subfaculty’s interest area. These may include, but are not limited to, updating course syllabi and catalog descriptions, actively participating in the recruitment of faculty, assisting in the administration of multiple section courses, and promoting research and professional development.
 
@@ -376,7 +376,7 @@ Ad hoc and other committees may be appointed by the School Director as needed. E
 
 <details>
 <summary> __Explanation of Changes__ </summary>
-- removed Division TPR Committees, Lecture Advisory Committee, and Post Tenure and Special Faculty Review Committees.  These will become sub-committees under TPR Committee. 
+- removed Division TPR Committees, Lecture Advisory Committee, and Post Tenure and Special Faculty Review Committees.  These will become subcommittees under TPR Committee. 
 - changed name of Administrative Committee (to Administrative Council) and Computing Facilities Committee (to Computing Resources Committee)
 - eliminated Curriculum Committee and moved curriculum matters to Undergraduate and Graduate affairs committees (see below)
 -added ability of faculty to add Ad Hoc Committees
@@ -454,7 +454,7 @@ Section 9. The Post Tenure and Special Faculty (PTSF) review Committee shall be 
 
 <details>
 <summary> __Explanation of Changes__ </summary>
-The new TPR document will combine these committee into one TPR Committee with sub-committees.  
+The new TPR document will combine these committee into one TPR Committee with subcommittees.  
 </details>
 
 ***
