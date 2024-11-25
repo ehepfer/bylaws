@@ -83,7 +83,7 @@ The Voting Faculty shall consist of all individuals, designated by School person
 __Section 2: Administrative Faculty__
 The Administrative Faculty shall consist of the School Director and the Division Leaders. <br>
 __Section 3: Associate Faculty__
-The Associate Faculty shall consist of all person who do not meet the criteria for voting or administrative Faculty.  
+The Associate Faculty shall consist of all persons who do not meet the criteria for voting or administrative Faculty.  
 </details>
 
 <details>
@@ -132,9 +132,9 @@ Based on nominations from the faculty of the respective Division and advice from
 - change to order of sections 
 </details>
 
-### Section 3: Director and Associate Directors Duties and Responsibilites
+### Section 3: Director and Associate Directors Duties and Responsibilities
 
-The School Director shall have the duties and responsibilities accorded to the Department Chair in the faculty manual. In addition, the Director shall adhere to the SMSS Policies and Procedures document. Associate Directors shall __assist__ the Director in goal-setting and annual evaluations of the faculty in their respective Division. The School Director shall review and finalize the evaluations. Associate Directors shall make recommendations to the School Director for strengthening impact and strategically advancing the School’s discovery, learning, and engagement missions, including strengthening external support through grants and industry partnerships.
+The School Director shall have the duties and responsibilities accorded to the Department Chair in the faculty manual. In addition, the Director shall adhere to the SMSS Policies and Procedures document. Associate Directors shall assist the Director in goal-setting and annual evaluations of the faculty in their respective Division. The School Director shall review and finalize the evaluations. Associate Directors shall make recommendations to the School Director for strengthening impact and strategically advancing the School’s discovery, learning, and engagement missions, including strengthening external support through grants and industry partnerships.
 
 <details>
 <summary> __Old Version__ </summary>
@@ -151,7 +151,7 @@ The School Director shall have the duties and responsibilities accorded to the D
 
 ### Section 4: Appointment of Assistant Directors
 
-Based on nominations from the Faculty and consultation with the Mathematical and Statistical Sciences Council (MSSC, defined in Article VI), the School Director shall appoint from the Faculty, Assistant Directors.   Each appointment shall be for a three-year term, effective August 15, and such Assistant Directors may succeed themselves.
+Based on nominations from the Faculty and consultation with the Mathematical and Statistical Sciences Council (MSSC, defined in Article VII), the School Director shall appoint from the Faculty, Assistant Directors.   Each appointment shall be for a three-year term, effective August 15, and such Assistant Directors may succeed themselves.
 
 <details>
 <summary> __Old Version__ </summary>
@@ -217,7 +217,7 @@ A quorum for a vote shall consist of 51% of the Voting Faculty. The result of an
 
 
 ### Section 5: Voting Procedure for Meetings of all faculty
-Voting shall be conducted using electronic voting. All votes cast for any measure shall utilize the same method of casting votes. Voting shall be open 1 hour before any duly called meeting of the faculty and close 48 hour after to the adjournment of the same meeting. The Secretary shall record a teller’s report in the minutes for the next meeting of the Faculty and the School Director shall distribute to the Faculty the results of the vote no later than 7 calendar days after the close of voting.
+Voting shall be conducted using electronic voting. All votes cast for any measure shall utilize the same method of casting votes. Voting shall be open 1 hour before any duly called meeting of the faculty and close 48 hours after to the adjournment of the same meeting. The Secretary shall record a teller’s report in the minutes for the next meeting of the Faculty and the School Director shall distribute to the Faculty the results of the vote no later than 7 calendar days after the close of voting.
 
 <details>
 <summary> __Explanation of Changes__ </summary>
@@ -228,9 +228,9 @@ This is a new section in the bylaws.  Suggested language for schools/departments
 
 ## Article VI: Organization of the Faculty
 
-### Section 1: Organization of Divsions and Subfaculty
+### Section 1: Organization of Divisions and Subfaculty
 
-The School is composed of three divisions, hereafter referred to as Divisions in the bylaws, established by the School Director.  All faculty employed by the School shall have an academic appointment in the School. The Divisions within the School are: 
+The School is composed of three divisions, hereafter referred to as Divisions in the bylaws.  All faculty employed by the School shall have an academic appointment in the School. The Divisions within the School are: 
 
 - Mathematics
 - Statistics and Operations Research
@@ -238,7 +238,7 @@ The School is composed of three divisions, hereafter referred to as Divisions in
 
 Each division contains multiple subfaculties.  
 
-The Mathematics Division consist of these subfaculties: 
+The Mathematics Division consists of these subfaculties: 
 
 - Algebra and Discrete Mathematics
 - Computational Mathematics
@@ -269,7 +269,7 @@ For purposes of representation on various matters, the Faculty is organized as f
 
 ### Section 2: Subfaculty Membership
 
-Membership on multiple subfaculties or Divisions is encouraged. However, each faculty member shall designate, in consultation with the Directors, (or have designated by the School Director in the absence of a choice) one of the subfaculties for primary membership and shall be entitled to vote on matters pertaining to subfaculty representation in School affairs in that subfaculty only. 
+Membership on multiple subfaculties or Divisions is encouraged. However, each faculty member shall designate, in consultation with the Director, (or have designated by the School Director in the absence of a choice) one of the subfaculties for primary membership and shall be entitled to vote on matters pertaining to subfaculty representation in School affairs in that subfaculty only. 
 
 <details>
 <summary> __Old Version__ </summary>
@@ -282,7 +282,7 @@ Membership on multiple subfaculties or divisions is encouraged. However, each fa
 </details>
 
 
-### Section 3: Subfaculty Responsibilites
+### Section 3: Subfaculty Responsibilities
 
 Each subfaculty shall have developmental responsibilities relative to academic matters associated with the subfaculty’s interest area. These may include, but are not limited to, updating course syllabi and catalog descriptions, actively participating in the recruitment of faculty, assisting in the administration of multiple section courses, and promoting research and professional development.
 
@@ -369,14 +369,14 @@ The School shall have the following standing committees, in addition to MSSC:
 6. Research and Development Committee
 7. Division TPR Committees
 8. Lecturer Advisory Committee
-9. Post Tenure and Special Faculty Review Committee
+9. Post-Tenure and Special Faculty Review Committee
 
 Ad hoc and other committees may be appointed by the School Director as needed. Except as specified below, the School Director, with the advice of the MSSC, shall fix the size of all committees and assign their duties; and, with the approval of the MSSC, shall appoint the chairpersons and members. The Curriculum Committee shall report to the MSSC. The Tenure, Promotion, and Reappointment Committee, the Computing Facilities Committee, and the Administrative Committee report directly to the School Director. Other committees may report to the School Director, the MSSC, or the Faculty as determined by the School Director.
 </details>
 
 <details>
 <summary> __Explanation of Changes__ </summary>
-- removed Division TPR Committees, Lecture Advisory Committee, and Post Tenure and Special Faculty Review Committees.  These will become subcommittees under TPR Committee. 
+- removed Division TPR Committees, Lecture Advisory Committee, and Post-Tenure and Special Faculty Review Committees.  These will become subcommittees under TPR Committee. 
 - changed name of Administrative Committee (to Administrative Council) and Computing Facilities Committee (to Computing Resources Committee)
 - eliminated Curriculum Committee and moved curriculum matters to Undergraduate and Graduate affairs committees (see below)
 -added ability of faculty to add Ad Hoc Committees
@@ -388,9 +388,9 @@ Ad hoc and other committees may be appointed by the School Director as needed. E
 
 The Administrative Council, defined in Article III, Section 1, shall be chaired by the School Director and shall advise the School Director on scheduling of courses, budget, workload, and other administrative matters.
 
-### Section 2: Computing Facilities Committee 
+### Section 2: Computing Resources Committee 
 
-The Computing Facilities Committee shall advise the School Director on the purchase, disposition, and allocation of computing resources within the School. A member of this committee shall be appointed by the School Director to serve as the School’s representative to the College’s Computer Resources Committee.
+The Computing Resources Committee shall advise the School Director on the purchase, disposition, and allocation of computing resources within the School. A member of this committee shall be appointed by the School Director to serve as the School’s representative to the College’s Computer Resources Committee.
 
 ### Section 3: Undergraduate Affairs and Curriculum Committee
 
@@ -409,7 +409,7 @@ The Undergraduate Affairs Committee shall be chaired by the Associate Director f
 
 ### Section 4: Graduate Affairs and Curriculum Committee 
 
-The Graduate Affairs and Curriculum Committee shall include one representative, with graduate faculty status, from each subfaculty. The Assistant Director for Graduate Affairs shall serve as an ex-officio voting member of the committee.  The Committee shall elect a chair of the Committee and the representative on the College Graduate Curriculum Committee.  The Committee shall advise the MSSC on graduate curricula and other matters, including assistantships and awards, pertaining to the graduate program. Other duties may be assigned by the School Director. Generally, the Committee’s agenda shall be made available to the Faculty at least one calendar day prior to its meetings. The committee may appoint subcommittees, not necessarily from its own members, as needed. Any such subcommittee shall report to the Committee. A subcommittee of advisors for entering graduate students shall be a standing subcommittee, whose activities shall be coordinated by the Assistant Director for Graduate Affairs.
+The Graduate Affairs and Curriculum Committee shall include one representative, with graduate faculty status, from each subfaculty. The Assistant Director for Graduate Affairs shall serve as an ex-officio voting member of the committee.  The Committee shall elect a chair of the Committee who shall serve as the representative on the College Graduate Curriculum Committee.  The Committee shall advise the MSSC on graduate curricula and other matters, including assistantships and awards, pertaining to the graduate program. Other duties may be assigned by the School Director. Generally, the Committee’s agenda shall be made available to the Faculty at least one calendar day prior to its meetings. The committee may appoint subcommittees, not necessarily from its own members, as needed. Any such subcommittee shall report to the Committee. A subcommittee of advisors for entering graduate students shall be a standing subcommittee, whose activities shall be coordinated by the Assistant Director for Graduate Affairs.
 
 <details>
 <summary> __Old Version__ </summary>
@@ -424,7 +424,7 @@ The Graduate Affairs Committee shall be chaired by the Associate Director for Gr
 
 ### Section 5: Research and Development Committee
 
-The Research and Development Committee endeavors to foster research, development, and outreach activities of the School. It is responsible for organizing a program of colloquium speakers, conserving and trying to increase resources available for research and faculty development, and providing information to the scholarly community about the research activities of the School. The committee is also responsible for assisting the School Director in development activities and alumni relations. The Associate Directors of the Mathematics and Statistics and Operations Research Divisions shall be co-chairs of this committee.  Each subfaculty shall elect a member to the Research and Development Committee. The committee may appoint subcommittees, not necessarily from its own members, as needed. Any such subcommittee shall report to the Committee.
+The Research and Development Committee endeavors to foster research, development, and outreach activities of the School. It is responsible for organizing a program of colloquium speakers, conserving and trying to increase resources available for research and faculty development, and providing information to the scholarly community about the research activities of the School. The committee is also responsible for assisting the School Director in development activities and alumni relations. The committee shall elect a chair of the committee.  Each subfaculty shall elect a member to the Research and Development Committee. The committee may appoint subcommittees, not necessarily from its own members, as needed. Any such subcommittee shall report to the Committee.
 
 <details>
 <summary> __Old Version__ </summary>
@@ -440,7 +440,7 @@ The Research and Development Committee endeavors to foster research, development
 
 ### Section 6: Tenure, Promotion and Reappointment (TPR) Committee
 
-The TPR Committee shall serve as the School’s evaluation committee in matters related to appointment, reappointment, promotion, tenure, post tenure, and graduate faculty status review of all faculty with or pursing appointments within the School. The procedures and criteria for Post-Tenure Review, Tenure, Promotion, and Reappointment may be found in the department’s separate TPR document. The committee may also be involved in additional personnel matters as deemed appropriate by the Director to provide input into personnel decisions including, but not limited to, meritorious compensation, disciplinary action, or conflict resolution. The committee shall meet as often as necessary to accomplish this charge.
+The TPR Committee shall serve as the School’s evaluation committee in matters related to appointment, reappointment, promotion, tenure, post-tenure, and graduate faculty status review of all faculty with or pursuing appointments within the School. The procedures and criteria for Post-Tenure Review, Tenure, Promotion, and Reappointment may be found in the school’s separate TPR document. The committee may also be involved in additional personnel matters as deemed appropriate by the Director to provide input into personnel decisions including, but not limited to, meritorious compensation, disciplinary action, or conflict resolution. The committee shall meet as often as necessary to accomplish this charge.
 
 <details>
 <summary> __Old Version__ </summary>
@@ -448,7 +448,7 @@ Section 7. Divisions containing voting faculty who are also regular faculty shal
 
 Section 8. The Lecturer Advisory Committee will consist of six lecturers who hold the rank of senior lecturer or higher. Its creation and function shall be in accordance with the Guidelines for Tenure, Promotion and Reappointment for the School of Mathematical and Statistical Sciences.
 
-Section 9. The Post Tenure and Special Faculty (PTSF) review Committee shall be determined and function in accordance with the Guidelines for Tenure, Promotion, and Reappointment for the School of Mathematical and Statistical Sciences.
+Section 9. The Post-Tenure and Special Faculty (PTSF) review Committee shall be determined and function in accordance with the Guidelines for Tenure, Promotion, and Reappointment for the School of Mathematical and Statistical Sciences.
 
 </details>
 
@@ -463,7 +463,7 @@ The new TPR document will combine these committee into one TPR Committee with su
 
 ### Section 1: College/University Committee Representatives 
 
-Elections of Faculty representatives to various college or university organizations shall either occur at a meeting of the Faculty or by mail or electronic ballot. Nominations are accepted from the Voting Faculty. The timeline and process for electing representation for College level and University committees shall be conducted according to the College of Science bylaws. 
+Elections of Faculty representatives to various college or university organizations shall either occur at a meeting of the Faculty or electronic ballot. Nominations are accepted from the Voting Faculty. The timeline and process for electing representation for College level and University committees shall be conducted according to the College of Science bylaws. 
 
 <details>
 <summary> __Old Version__ </summary>
@@ -497,7 +497,7 @@ A replacement for the unexpired term of any representative to the MSSC, college 
 
 ### Section 1: Regular Appointments
 
-To fill a regular appointment faculty position, the Director in consultation with the Associate Directors, shall appoint a Search Committee consisting primarily of members of subfaculties directly related to the area of the candidate, who shall conduct the search in accordance with the Clemson University Faculty Manual. Members of the Search Committee shall be from at least two different subfaculties, and be composed in accordance with College of Science and University guidelines. This will normally mean that at least one member of the Search Committee will be from a subfaculty that differs from the primary area specified for the candidate. The Search Committee shall invite feedback from all faculty members of the School to discuss the relative merits of the final candidates. Outcomes of this process will be considered by the Search Committee in its final deliberation and shall be presented to the Assciate Directors and the Director; the Associate Directors shall advise the Director in making the selection.
+To fill a regular appointment faculty position, the Director in consultation with the Associate Directors, shall appoint a Search Committee consisting primarily of members of subfaculties directly related to the area of the candidate, who shall conduct the search in accordance with the Clemson University Faculty Manual. Members of the Search Committee shall be from at least two different subfaculties, and be composed in accordance with College of Science and University guidelines. This will normally mean that at least one member of the Search Committee will be from a subfaculty that differs from the primary area specified for the candidate. The Search Committee shall invite feedback from all faculty members of the School to discuss the relative merits of the final candidates. Outcomes of this process will be considered by the Search Committee in its final deliberation and shall be presented to the Associate Directors and the Director; the Associate Directors shall advise the Director in making the selection.
 
 
 <details>
@@ -546,7 +546,7 @@ The Bylaws can be amended by the Voting Faculty, either at a meeting of the Facu
 
 ### Section 2: TPR Guidelines
 
-The Guidelines for Tenure, Promotion and Reappointment and Post Tenure Review Guidelines for the School of Mathematical and Statistical Sciences can be amended at the request of a member of the Tenure, Promotion, and Reappointment Committee and subject to ratification by the regular faculty. Amendments approved by a majority vote of the combined voting membership of the Tenure, Promotion, and Reappointment Committees shall be distributed to each member of the regular faculty at least two weeks in advance of the vote for ratification. Support by 51% of the combined voting membership or 2/3 of the votes cast, whichever count is larger, is required for ratification. Voting may be either at a meeting or electronic ballot.
+The Guidelines for Tenure, Promotion and Reappointment and Post-Tenure Review Guidelines for the School of Mathematical and Statistical Sciences can be amended at the request of a member of the Tenure, Promotion, and Reappointment Committee and subject to ratification by the regular faculty. Amendments approved by a majority vote of the voting membership of the Tenure, Promotion, and Reappointment Committees shall be distributed to each member of the regular faculty at least two weeks in advance of the vote for ratification. Support by 51% of the combined voting membership or 2/3 of the votes cast, whichever count is larger, is required for ratification. Voting may be either at a meeting or electronic ballot.
 
 <details>
 <summary> __Old Version__ </summary>
@@ -557,12 +557,12 @@ The Guidelines for Tenure, Promotion and Reappointment for the School of Mathema
 <summary> __Explanation of Changes__ </summary>
 - changed language for one TPR committee rather than 2
 - removed "by mail"
-- combined TPR and Post Tenure Review Guideline amendments 
+- combined TPR and Post-Tenure Review Guideline amendments 
 </details>
 
 ***
 
-## Article XII: Parlimentary Authority
+## Article XII: Parliamentary Authority
 
 The rules contained in the current edition of Robert’s Rules of Order Newly Revised shall govern this assembly in all cases to which they are applicable and in which they are not inconsistent with these bylaws, the College bylaws, the Faculty Manual, the Constitution of the Faculty of Clemson University, and any special rules of order the faculty may adopt.
 
