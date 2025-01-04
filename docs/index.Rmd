@@ -532,7 +532,7 @@ In the case of an appointment to a faculty position not described here (e.g. pos
 
 ### Section 1: Amendments to Bylaws
 
-The Bylaws can be amended by the Voting Faculty, either at a meeting of the Faculty or electronic ballot, provided the amendment has been distributed to each member at least two weeks in advance of the voting. Passage requires support by 51% of the Voting Faculty or 2/3 of the votes cast, whichever count is larger.
+The Bylaws can be amended by the Voting Faculty, either at a meeting of the Faculty or electronic ballot, provided the amendment has been distributed to each member at least two weeks in advance of the voting. Passage requires support by 60% of the Voting Faculty.
 
 <details>
 <summary> __Old Version__ </summary>
@@ -542,11 +542,12 @@ The Bylaws can be amended by the Voting Faculty, either at a meeting of the Facu
 <details>
 <summary> __Explanation of Changes__ </summary>
 - removed "by mail"
+- changed voting passes to 51%
 </details>
 
 ### Section 2: TPR Guidelines
 
-The Guidelines for Tenure, Promotion and Reappointment and Post-Tenure Review Guidelines for the School of Mathematical and Statistical Sciences can be amended at the request of a member of the Tenure, Promotion, and Reappointment Committee and subject to ratification by the regular faculty. Amendments approved by a majority vote of the voting membership of the Tenure, Promotion, and Reappointment Committees shall be distributed to each member of the regular faculty at least two weeks in advance of the vote for ratification. Support by 51% of the combined voting membership or 2/3 of the votes cast, whichever count is larger, is required for ratification. Voting may be either at a meeting or electronic ballot.
+The Guidelines for Tenure, Promotion and Reappointment and Post-Tenure Review Guidelines for the School of Mathematical and Statistical Sciences can be amended at the request of a member of the Tenure, Promotion, and Reappointment Committee and subject to ratification by the regular faculty. Amendments approved by a majority vote of the voting membership of the Tenure, Promotion, and Reappointment Committees shall be distributed to each member of the regular faculty at least two weeks in advance of the vote for ratification. Support by 60% of the voting membership is required for ratification. Voting may be either at a meeting or electronic ballot.
 
 <details>
 <summary> __Old Version__ </summary>
