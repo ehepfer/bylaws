@@ -119,7 +119,7 @@ For School governance considerations, the administrative committee of the School
 
 ### Section 2: Appointment of Associate Directors (Division Leads)
 
-Based on nominations from the faculty of the respective Division and advice from the Mathematical and Statistical Sciences Council (MSSC), the School Director shall appoint Associate Directors. Each appointment shall be for a three-year term, and such Associate Directors may succeed themselves. In the event an Associate Director position becomes vacant, an interim Associate Director may be appointed, for a maximum of one year, by the School Director. 
+Based on nominations from the faculty of the respective Division and advice from the Mathematical and Statistical Sciences Council (MSSC), the School Director shall appoint Associate Directors. Each appointment shall be for a three-year term, and such Associate Directors may succeed themselves. Associate Directors are the leaders of their respective division.  In the event an Associate Director position becomes vacant, an interim Associate Director may be appointed, for a maximum of one year, by the School Director. 
 
 <details>
 <summary> __Old Version__ </summary>
